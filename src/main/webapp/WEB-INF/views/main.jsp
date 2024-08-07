@@ -6,6 +6,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	메인페이지
+	메인페이지 <br />
+	안녕하세요
 </body>
 </html>
