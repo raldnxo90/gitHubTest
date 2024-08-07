@@ -1,7 +1,5 @@
 package kr.co.soldesk.config;
 
-import javax.annotation.Resource;
-
 import org.apache.commons.dbcp2.BasicDataSource;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.mybatis.spring.SqlSessionFactoryBean;
